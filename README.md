@@ -1,7 +1,7 @@
 # my-github-page
-# Welcome to My GitHub Page
+# Welcome to My GitHub Page for Cloud Services
 
-This is a simple static webpage built using **GitHub Pages** and written in _Markdown_. Below are some examples of GitHub-Flavored Markdown (GFM) features.
+This is a simple static webpage built using **GitHub Pages** and written in _Markdown_
 
 ## Table of Contents
 - [Headings](#headings)
@@ -34,7 +34,7 @@ This is a simple static webpage built using **GitHub Pages** and written in _Mar
 
 ## Code Blocks
 
-Inline code looks like this: `console.log('Hello World!')`.
+Inline code: `console.log('Hello World!')`.
 
 Block code example:
 ```javascript
