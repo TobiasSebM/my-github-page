@@ -11,7 +11,7 @@ This is a simple static webpage built using **GitHub Pages** and written in _Mar
 - [Images](#images)
 - [Links](#links)
 
-![Alt Text](https://tenor.com/updVnLepkUa.gif)
+https://tenor.com/updVnLepkUa.gif
 
 ## Headings
 # Heading 1
